@@ -3,7 +3,7 @@
 `cs` · `ai` · `robotics` · `vibe coding`
 
 [![website](https://img.shields.io/badge/itzmrz.xyz-111?style=flat-square&logo=google-chrome&logoColor=white)](https://itzmrz.xyz)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alifmeheraz)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrzAlif)
 [![x](https://img.shields.io/badge/x-000?style=flat-square&logo=x&logoColor=white)](https://x.com/alifmeheraz)
 [![facebook](https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/itzmrz.xyz)
 
