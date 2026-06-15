@@ -1,6 +1,6 @@
 # itzMRZ
 
-`cs` · `ai` · `robotics` · `vibe coding`
+`cs` · `ai` · `robotics` 
 
 [![website](https://img.shields.io/badge/itzmrz.xyz-111?style=flat-square&logo=google-chrome&logoColor=white)](https://itzmrz.xyz)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrzAlif)
